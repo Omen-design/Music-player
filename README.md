@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spotify-clone-django
 python Django clone music app
 
@@ -35,3 +36,6 @@ Once `pip` has finished downloading the dependencies:
 (env)$ python manage.py runserver
 ```
 And navigate to `http://127.0.0.1:8000/demo`.
+=======
+# Music-player
+>>>>>>> d301826be265d7b68dbc2e2b826cf6ced07ebe5d
