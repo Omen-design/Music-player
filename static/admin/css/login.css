@@ -23,8 +23,8 @@ body.login {
 }
 
 .login #container {
-    background: #fff;
-    border: 1px solid #eaeaea;
+    background: rgb(240, 223, 223);
+    border: 1px solid #862222;
     border-radius: 4px;
     overflow: hidden;
     width: 28em;

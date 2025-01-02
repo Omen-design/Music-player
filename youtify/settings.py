@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'youtify.wsgi.application'
+WSGI_APPLICATION = 'youtify.wsgi.application' 
 
 
 # Database
